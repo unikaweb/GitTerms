@@ -13,4 +13,4 @@
 11. При необходимости какого-то пояснения по проекту, логирования процесса разработки, написанию документации и т.д. в корне репозитория создается текстовый файл в формате .md. Здесь идет написание на русском языке. Синтаксис написания в данном формате берем отсюда:  
 `https://github.com/sandino/Markdown-Cheatsheet/blob/master/README.md`  
 Пример можно посмотреть здесь:  
-`https://github.com/Fenris-v/umiEmarketDisable1cWhenNeed/blob/master/README.md`
+`https://github.com/unikaweb/umiEmarketDisable1cWhenNeed/blob/master/README.md`
